@@ -1,6 +1,7 @@
  
 body {
 	margin:30px;
+	/*text-align: center;*/
 	background-color: beige;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -34,6 +35,15 @@ h1 {
 
 }
 
-.description {
-	color: blue;
+.description h2, .ingredients h2, .steps h2{
+	display: inline-block;
+	border-bottom: 2px solid #6B4037;
+	color: #6B4037;
+}
+
+.description, .ingredients, .steps{
+	font-size: 15px;
+	padding: 10px;
+	background-color: #EEE6D0;
+	margin: 25px;
 }
