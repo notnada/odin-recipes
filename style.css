@@ -26,3 +26,12 @@ body {
 	padding: 2px 4px 2px 30px ;
 
 }
+
+h1 {
+	padding: 2px;
+	text-align: center;
+	color: #191970;
+	border-bottom: 2px solid black;
+
+}
+
