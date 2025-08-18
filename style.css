@@ -20,7 +20,6 @@ body {
 }
 
 .quote, .quote em {
-	display: inline-block;
 	background-color: #F5E6C8;
 	color:#2B2B2B ;
 	padding: 2px 4px 2px 30px ;
