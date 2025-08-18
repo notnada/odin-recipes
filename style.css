@@ -1,0 +1,27 @@
+ 
+body {
+	margin:30px;
+	background-color: beige;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-image: url("https://i.pinimg.com/1200x/5e/0f/d6/5e0fd6aaa4a4040400d17af3be923833.jpg");
+	font-family: Copperplate, "Times New Roman" ,fantasy, "Copperplate Gothic Light",Verdana, Papyrus, sans-serif;
+}
+
+/* home page */
+.menu > * {
+	text-align: center;
+	padding: 20px;
+	border: 2px solid darkred;
+	margin: 10px;
+	font-size: 20px;
+	font-weight: bold;
+	
+	
+
+
+}
+
+h1 {
+	
+}
